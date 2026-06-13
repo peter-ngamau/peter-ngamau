@@ -43,7 +43,7 @@ more likely to be excluded than the national average.
 
 ---
 
-### 📉 [Customer Churn Analysis — IBM Telco Dataset](https://github.com/peter-ngamau/Customer-Churn-Analysis)
+### 📉 [Customer Churn Analysis — Telco Dataset](https://github.com/peter-ngamau/Customer-Churn-Analysis)
 Analysed ~7,000 customer records across 21 features to identify the key drivers of churn.  
 Built a 5-task Python pipeline for data cleaning, EDA, and visualisation using pandas, 
 matplotlib, and seaborn.  
