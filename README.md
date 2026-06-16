@@ -31,6 +31,8 @@ the highest financial exclusion rate (37.6%) · People with no formal education 
 more likely to be excluded than the national average.  
 `Python` `SQL Server` `Power BI` `CBK Open Data` `FinAccess Survey`
 
+![Financial Inclusion Dashboard](screenshot/Fin1.png)
+
 ---
 
 ### 🛒 [Retail Sales Analysis — End-to-End Pipeline](https://github.com/peter-ngamau/Retail-Sales-Project-End-to-End-)
@@ -39,6 +41,8 @@ Designed a star-schema database, wrote exploratory SQL queries, and published 3 
 dashboards on store performance, product profitability, and customer behaviour.  
 **Key finding:** A small segment of stores and loyalty members drove the majority of revenue.  
 `Python` `pandas` `SQL Server` `Power BI` `Star Schema`
+
+![Dashboard Preview](screenshot/retail_sales_overview.png)
 
 ---
 
