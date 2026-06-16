@@ -23,16 +23,6 @@ not just to analysts, but to the business people who act on it.
 ---
 
 ## 📂 Featured Projects
-
-### 🛒 [Retail Sales Analysis — End-to-End Pipeline](https://github.com/peter-ngamau/Retail-Sales-Project-End-to-End-)
-Built a complete pipeline across Python, SQL Server, and Power BI covering 5 datasets.  
-Designed a star-schema database, wrote exploratory SQL queries, and published 3 interactive 
-dashboards on store performance, product profitability, and customer behaviour.  
-**Key finding:** A small segment of stores and loyalty members drove the majority of revenue.  
-`Python` `pandas` `SQL Server` `Power BI` `Star Schema`
-
----
-
 ### 🇰🇪 [Kenya Financial Inclusion & Mobile Money Analytics](https://github.com/peter-ngamau/Financial-Inclusion-In-Kenya)
 Analysed 10 years of Central Bank of Kenya mobile money data + 7 waves of FinAccess 
 Household Survey data (2006–2024) across Kenya's 47 counties.  
@@ -40,6 +30,15 @@ Household Survey data (2006–2024) across Kenya's 47 counties.
 the highest financial exclusion rate (37.6%) · People with no formal education were 4.6× 
 more likely to be excluded than the national average.  
 `Python` `SQL Server` `Power BI` `CBK Open Data` `FinAccess Survey`
+
+---
+
+### 🛒 [Retail Sales Analysis — End-to-End Pipeline](https://github.com/peter-ngamau/Retail-Sales-Project-End-to-End-)
+Built a complete pipeline across Python, SQL Server, and Power BI covering 5 datasets.  
+Designed a star-schema database, wrote exploratory SQL queries, and published 3 interactive 
+dashboards on store performance, product profitability, and customer behaviour.  
+**Key finding:** A small segment of stores and loyalty members drove the majority of revenue.  
+`Python` `pandas` `SQL Server` `Power BI` `Star Schema`
 
 ---
 
