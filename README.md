@@ -52,6 +52,8 @@ Built a 5-task Python pipeline for data cleaning, EDA, and visualisation using p
 matplotlib, and seaborn.  
 `Python` `pandas` `matplotlib` `seaborn` `EDA`
 
+![Customer churn overview](screenshot/Customer_churn-Overview.png)
+
 ---
 
 ### ⚽ [Hypothesis Testing — Men's vs Women's Football Scores](https://github.com/peter-ngamau/Hypothesis-Testing-with-Men-s-and-Women-s-Soccer-Matches)
