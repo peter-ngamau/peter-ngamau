@@ -58,6 +58,7 @@ matplotlib, and seaborn.
 
 ### 🥑 [Kenya Agricultural Market Price Analysis](https://github.com/peter-ngamau/Kenya-Agricultural-Market-Price-Analysis)
 Cleaned and analyzed 2.5 years of real wholesale/retail price data from KAMIS (Kenya's Ministry of Agriculture) across 7 commodities and 11 counties. Built a full Power Query ETL pipeline, a star-schema data model, and an interactive dashboard uncovering price volatility, seasonal trends, and county-level pricing patterns.
+
 `Excel` · `Power Query` · `Power Pivot` · `DAX` · `Data Cleaning` · `Data Modeling` · `Dashboard Design`
 
 ![Dashboard](Dashboard.png)
