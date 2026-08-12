@@ -56,6 +56,15 @@ matplotlib, and seaborn.
 
 ---
 
+### 🥑 [Kenya Agricultural Market Price Analysis](https://github.com/peter-ngamau/Kenya-Agricultural-Market-Price-Analysis)
+Cleaned and analyzed 2.5 years of real wholesale/retail price data from KAMIS (Kenya's Ministry of Agriculture) across 7 commodities and 11 counties. Built a full Power Query ETL pipeline, a star-schema data model, and an interactive dashboard uncovering price volatility, seasonal trends, and county-level pricing patterns.
+
+![Dashboard](Dashboard.png)
+
+**Skills:** Excel · Power Query · Power Pivot · DAX · Data Cleaning · Data Modeling · Dashboard Design
+
+---
+
 ### ⚽ [Hypothesis Testing — Men's vs Women's Football Scores](https://github.com/peter-ngamau/Hypothesis-Testing-with-Men-s-and-Women-s-Soccer-Matches)
 Merged and cleaned two international match datasets, compared scoring patterns and win rates, 
 then applied statistical hypothesis testing to determine whether goal-average differences 
