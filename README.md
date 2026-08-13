@@ -61,7 +61,7 @@ Cleaned and analyzed 2.5 years of real wholesale/retail price data from KAMIS (K
 
 `Excel` · `Power Query` · `Power Pivot` · `DAX` · `Data Cleaning` · `Data Modeling` · `Dashboard Design`
 
-![Dashboard](Dashboard.png)
+![Dashboard](Dash.png)
 
 
 
